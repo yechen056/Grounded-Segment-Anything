@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ram
+Version: 0.0.1
+Summary: Recognize Anything Plus Model, Recognize Anything Model and Tag2Text Model
+License-File: LICENSE
+License-File: NOTICE.txt
+Dynamic: license-file
